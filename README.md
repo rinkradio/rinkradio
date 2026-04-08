@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>I'm Ritik Kumar, a Software Developer / Software Engineer who builds intelligent systems that merge AI with scalable web apps.<br><br>### 🎯 Current Focus<br><br>* AI & ML integration with real-world web systems<br>* Building fast, responsive interfaces with React + Tailwind<br>* Experimenting with automation and intelligent model workflows<br><br>### ⚡ Philosophy<br><br>I don’t code to follow trends — I code to solve real problems with clarity, speed, and intelligence.<br><br>> “Software without intelligence is incomplete — and intelligence without software is useless.”
+👋 About Me<br><br>I'm Ritik Kumar, a Software Developer / Software Engineer who builds intelligent systems that merge AI with scalable web apps.<br><br>### 🎯 Current Focus<br><br>* AI & ML integration with real-world web systems<br>* Building fast, responsive interfaces using multiple languages<br>* Experimenting with automation and intelligent model workflows<br><br>### ⚡ Philosophy<br><br>I don’t code to follow trends — I code to solve real problems with clarity, speed, and intelligence.<br><br>> “Software without intelligence is incomplete — and intelligence without software is useless.”
 
 
 ## 🌐 Socials:
